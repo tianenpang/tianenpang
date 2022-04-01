@@ -10,6 +10,6 @@
 
 [TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=tianenpang&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
 
-[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=tianenpang&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
+[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=tianenpang&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117
 
-[GITHUB_STREAK]: https://github-readme-streak-stats.herokuapp.com/?user=tianenpang&theme=dark
+[GITHUB_STREAK]: https://github-readme-streak-stats.herokuapp.com/?user=tianenpang&theme=dark&hide_border=true&background=0D1117
